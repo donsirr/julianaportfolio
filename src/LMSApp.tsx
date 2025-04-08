@@ -77,37 +77,37 @@ const subjects: Subject[] = [
 
 const modules: Module[] = [
   {
-    id: 'sts',
+    id: 'stsa',
     subjectId: 'sts',
     name: 'Module A: Introduction: Reality and Knowledge',
     description: 'Science, Technology and Society'
   },
   {
-    id: 'sts',
+    id: 'stsb',
     subjectId: 'sts',
     name: 'Module B: Scientific Inquiry, Technology, and Society',
     description: 'Science, Technology and Society'
   },
   {
-    id: 'sts',
+    id: 'stsc',
     subjectId: 'sts',
     name: 'Module C: Historical Antecendents',
     description: 'Science, Technology and Society'
   },
   {
-    id: 'sts',
+    id: 'stsd',
     subjectId: 'sts',
     name: 'Module D: Intellectual Revolutions',
     description: 'Science, Technology and Society'
   },
   {
-    id: 'sts',
+    id: 'stse',
     subjectId: 'sts',
     name: 'Module E: Issues and Consequences of Technology',
     description: 'Science, Technology and Society'
   },
   {
-    id: 'sts',
+    id: 'stsf',
     subjectId: 'sts',
     name: 'Module F: Ecosystems, Biodiversity and Global Citizenship',
     description: 'Science, Technology and Society'
@@ -117,7 +117,7 @@ const modules: Module[] = [
 const activities: Activity[] = [
   {
     id: 'sts-modulef-activity',
-    moduleId: 'sts',
+    moduleId: 'stsf',
     name: 'Group Activity',
     description: 'Case Study Analysis',
     type: 'ACTIVITY',
