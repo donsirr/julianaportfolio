@@ -124,6 +124,49 @@ const modules: Module[] = [
     name: 'ECOBRICK',
     description: 'Science, Technology and Society'
   },
+
+  {
+    id: 'sselect-m1',
+    subjectId: 'sselect',
+    name: 'M1 Activity',
+    description: 'Science, Technology and Society'
+  },
+  {
+    id: 'sselect-m2',
+    subjectId: 'sselect',
+    name: 'M2 Formative Activity: Habit Formation',
+    description: 'Science, Technology and Society'
+  },
+  {
+    id: 'sselect-grpwork1',
+    subjectId: 'sselect',
+    name: 'Group Work: Creating Reviewers',
+    description: 'Science, Technology and Society'
+  },
+  {
+    id: 'sselect-grpwork2',
+    subjectId: 'sselect',
+    name: 'Group Work: Modelling a Lifelong Learner',
+    description: 'Science, Technology and Society'
+  },
+  {
+    id: 'sselect-m8',
+    subjectId: 'sselect',
+    name: 'M8 Formative Activities: Portfolio of Well-Being',
+    description: 'Science, Technology and Society'
+  },
+  {
+    id: 'sselect-final',
+    subjectId: 'sselect',
+    name: 'Final Requirement: Service Learning Activity',
+    description: 'Science, Technology and Society'
+  },
+  {
+    id: 'sselect-reflection',
+    subjectId: 'sselect',
+    name: 'Parting Reflection',
+    description: 'Science, Technology and Society'
+  },
 ]
 
 const activities: Activity[] = [
