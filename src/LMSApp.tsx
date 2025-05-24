@@ -116,13 +116,22 @@ const modules: Module[] = [
 
 const activities: Activity[] = [
   {
+    id: 'sts-modulec-activity',
+    moduleId: 'stsc',
+    name: 'Activity',
+    description: 'Information about the Calculator',
+    type: 'ACTIVITY',
+    dueDate: '2025-05-24',
+    link: 'https://docs.google.com/document/d/13rRdiByc6msgMO6rAbEm594toWObRZGR/'
+  },
+  {
     id: 'sts-moduled-activity',
     moduleId: 'stsd',
     name: 'Activity',
     description: 'Example of an intellectual revolutions',
     type: 'ACTIVITY',
     dueDate: '2025-05-24',
-    link: 'https://docs.google.com/document/d/1GqI3j6nqtbkbysXnW9pR1Uftq91mXZdegW1BvixhCxk/edit?pli=1&tab=t.0'
+    link: 'https://docs.google.com/document/d/1GqI3j6nqtbkbysXnW9pR1Uftq91mXZdegW1BvixhCxk/'
   },
   {
     id: 'sts-modulef-activity',
