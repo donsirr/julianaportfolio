@@ -115,7 +115,7 @@ const modules: Module[] = [
   {
     id: 'stsh',
     subjectId: 'sts',
-    name: 'Module H',
+    name: 'Module H: Cybersecurity',
     description: 'Science, Technology and Society'
   },
   {
