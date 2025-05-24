@@ -118,6 +118,12 @@ const modules: Module[] = [
     name: 'Module H',
     description: 'Science, Technology and Society'
   },
+  {
+    id: 'sts-ecobrick',
+    subjectId: 'sts',
+    name: 'ECOBRICK',
+    description: 'Science, Technology and Society'
+  },
 ]
 
 const activities: Activity[] = [
@@ -166,7 +172,15 @@ const activities: Activity[] = [
     dueDate: '2025-04-08',
     link: 'https://drive.google.com/file/d/19GrDWnpJ1HokPHL2wOzXD1-C4V5N_Uex/view'
   },
-
+  {
+    id: 'sts-ecobrick-activity',
+    moduleId: 'sts-ecobrick',
+    name: 'ECOBRICK',
+    description: 'STS Ecobrick',
+    type: 'ACTIVITY',
+    dueDate: '2025-04-08',
+    link: 'https://drive.google.com/drive/folders/15HhPczZz6Wfiq_ofMaZ0Rcpt6BJtBW3U'
+  },
 ]
 
 export default function LMSApp() {
