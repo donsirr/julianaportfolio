@@ -116,6 +116,15 @@ const modules: Module[] = [
 
 const activities: Activity[] = [
   {
+    id: 'sts-moduled-activity',
+    moduleId: 'stsd',
+    name: 'Activity',
+    description: 'Example of an intellectual revolutions',
+    type: 'ACTIVITY',
+    dueDate: '2025-05-24',
+    link: 'https://docs.google.com/document/d/1GqI3j6nqtbkbysXnW9pR1Uftq91mXZdegW1BvixhCxk/edit?pli=1&tab=t.0'
+  },
+  {
     id: 'sts-modulef-activity',
     moduleId: 'stsf',
     name: 'Group Activity',
@@ -123,7 +132,8 @@ const activities: Activity[] = [
     type: 'ACTIVITY',
     dueDate: '2025-04-08',
     link: 'https://docs.google.com/document/d/1IpMPsALL4zT-5AwQjeyYCkU2hwPHiZ9AJ1dI0XPVdYA/edit?usp=sharing'
-  }
+  },
+
 ]
 
 export default function LMSApp() {
