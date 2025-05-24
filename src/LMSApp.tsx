@@ -112,9 +112,24 @@ const modules: Module[] = [
     name: 'Module F: Ecosystems, Biodiversity and Global Citizenship',
     description: 'Science, Technology and Society'
   },
+  {
+    id: 'stsh',
+    subjectId: 'sts',
+    name: 'Module H',
+    description: 'Science, Technology and Society'
+  },
 ]
 
 const activities: Activity[] = [
+  {
+    id: 'sts-moduleb-activity',
+    moduleId: 'stsb',
+    name: 'Tote Bag Activity',
+    description: 'Tote Bag',
+    type: 'ACTIVITY',
+    dueDate: '2025-05-24',
+    link: 'https://drive.google.com/drive/folders/15aRtwpVQrWSfRYtDheYjfCjmpXkUG835'
+  },
   {
     id: 'sts-modulec-activity',
     moduleId: 'stsc',
@@ -141,6 +156,15 @@ const activities: Activity[] = [
     type: 'ACTIVITY',
     dueDate: '2025-04-08',
     link: 'https://docs.google.com/document/d/1IpMPsALL4zT-5AwQjeyYCkU2hwPHiZ9AJ1dI0XPVdYA/edit?usp=sharing'
+  },
+  {
+    id: 'sts-moduleh-activity',
+    moduleId: 'stsh',
+    name: 'Vlog Activity',
+    description: 'STS Vlog',
+    type: 'ACTIVITY',
+    dueDate: '2025-04-08',
+    link: 'https://drive.google.com/file/d/19GrDWnpJ1HokPHL2wOzXD1-C4V5N_Uex/view'
   },
 
 ]
