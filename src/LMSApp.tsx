@@ -224,6 +224,24 @@ const activities: Activity[] = [
     dueDate: '2025-04-08',
     link: 'https://drive.google.com/drive/folders/15HhPczZz6Wfiq_ofMaZ0Rcpt6BJtBW3U'
   },
+  {
+    id: 'ssselect-m8-pt1',
+    moduleId: 'sselect-m8',
+    name: 'Snapshots of Gratitude',
+    description: 'SSELECT Activity',
+    type: 'ACTIVITY',
+    dueDate: '2025-05-08',
+    link: 'https://docs.google.com/document/d/14SFYLciAfnDPFalYG_YpadxlBjLobHjscATKbSJsQvI/edit?tab=t.0'
+  },
+  {
+    id: 'ssselect-m8-pt2',
+    moduleId: 'sselect-m8',
+    name: 'Positive Psychology',
+    description: 'SSELECT Activity',
+    type: 'ACTIVITY',
+    dueDate: '2025-05-02',
+    link: 'https://docs.google.com/document/d/10McV14XA5rVt7ivRr9Wjt9_KO3D3Lm_zckton3YZ17A/edit?tab=t.0'
+  },
 ]
 
 export default function LMSApp() {
