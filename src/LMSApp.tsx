@@ -231,7 +231,7 @@ const activities: Activity[] = [
     description: 'SSELECT Activity',
     type: 'ACTIVITY',
     dueDate: '2025-05-08',
-    link: 'https://docs.google.com/document/d/14SFYLciAfnDPFalYG_YpadxlBjLobHjscATKbSJsQvI/edit?tab=t.0'
+    link: 'https://docs.google.com/document/d/14SFYLciAfnDPFalYG_YpadxlBjLobHjscATKbSJsQvI'
   },
   {
     id: 'ssselect-m8-pt2',
@@ -240,7 +240,61 @@ const activities: Activity[] = [
     description: 'SSELECT Activity',
     type: 'ACTIVITY',
     dueDate: '2025-05-02',
-    link: 'https://docs.google.com/document/d/10McV14XA5rVt7ivRr9Wjt9_KO3D3Lm_zckton3YZ17A/edit?tab=t.0'
+    link: 'https://docs.google.com/document/d/10McV14XA5rVt7ivRr9Wjt9_KO3D3Lm_zckton3YZ17A'
+  },
+  {
+    id: 'ssselect-m1-pt1',
+    moduleId: 'sselect-m1',
+    name: 'Caring for Mental Health',
+    description: 'SSELECT Activity',
+    type: 'ACTIVITY',
+    dueDate: '2025-05-27',
+    link: 'https://docs.google.com/document/d/14n0ywGdRRzdxCVXxAsZwUSsesslx-fxjM-T63gjNcls'
+  },
+  {
+    id: 'ssselect-m2-pt1',
+    moduleId: 'sselect-m2',
+    name: 'Habit Formation',
+    description: 'SSELECT Activity',
+    type: 'ACTIVITY',
+    dueDate: '2025-05-27',
+    link: 'https://docs.google.com/document/d/15Erb_0Qtm78ScYgFRCzmecVAr1bFZFWPz3b6f_0Mqp4'
+  },
+  {
+    id: 'ssselect-grpwork-pt1',
+    moduleId: 'sselect-grpwork2',
+    name: 'Modelling a Lifelong Learner',
+    description: 'SSELECT Activity',
+    type: 'ACTIVITY',
+    dueDate: '2025-05-27',
+    link: 'https://docs.google.com/document/d/16OAu3xdW5W8YXNjsDvIDYkS-44i6CbUDHlZd7x4hxG0'
+  },
+  {
+    id: 'ssselect-reflection-pt1',
+    moduleId: 'sselect-reflection',
+    name: 'Parting Reflection',
+    description: 'SSELECT Activity',
+    type: 'ACTIVITY',
+    dueDate: '2025-05-27',
+    link: 'https://docs.google.com/document/d/16ljafdq3KqkQYeCY074MvjqEWJRKJ2azVRaThGwP8Ow'
+  },
+  {
+    id: 'ssselect-grpwork-pt2',
+    moduleId: 'sselect-grpwork1',
+    name: 'Creating Reviewers',
+    description: 'SSELECT Activity',
+    type: 'ACTIVITY',
+    dueDate: '2025-05-27',
+    link: 'https://drive.google.com/drive/folders/1NvFEuJyX6yxgZXzn9JmRUuhiTt-sYJ_9'
+  },
+  {
+    id: 'ssselect-final-pt1',
+    moduleId: 'sselect-final',
+    name: 'Service Learning Activity',
+    description: 'SSELECT Activity',
+    type: 'ACTIVITY',
+    dueDate: '2025-05-27',
+    link: 'https://drive.google.com/drive/folders/1zhZNgzwWYQVovl916EW4QnZ8L9cbq8fP'
   },
 ]
 
